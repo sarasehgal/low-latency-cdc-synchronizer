@@ -1,0 +1,8 @@
+xcelium.d/
+xcl_*/
+*.log
+*.vcd
+*.wlf
+INCA_libs/
+.modelsim_top_*/
+.DS_Store
